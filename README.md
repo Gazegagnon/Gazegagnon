@@ -111,10 +111,6 @@ Ce qui me distingue : je documente systématiquement les vraies difficultés ren
 
 ---
 
-<p align="center">
-  <i>💬 N'hésitez pas à explorer mes repos et à me contacter !</i>
-</p>
-
 ## 📊 Activité GitHub
 
 <p align="center">
