@@ -114,3 +114,22 @@ Ce qui me distingue : je documente systématiquement les vraies difficultés ren
 <p align="center">
   <i>💬 N'hésitez pas à explorer mes repos et à me contacter !</i>
 </p>
+
+## 📊 Activité GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gazegagnon&show_icons=true&theme=default&hide_border=true&count_private=true&locale=fr" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazegagnon&layout=compact&theme=default&hide_border=true&locale=fr" height="150"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gazegagnon/Gazegagnon/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gazegagnon/Gazegagnon/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Gazegagnon/Gazegagnon/output/github-snake.svg" />
+</picture>
+
+---
+
+<p align="center">
+  <i>💬 N'hésitez pas à explorer mes repos et à me contacter !</i>
+</p>
