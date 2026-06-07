@@ -1,13 +1,4 @@
-<h1 align="center">👋 Bonjour, moi c'est Hamidou BANCE</h1>
-
-<p align="center">
-  <b>Développeur Full-Stack & DevOps</b> · Master Développement Web & Big Data · Île-de-France
-</p>
-
-<p align="center">
-  <a href="mailto:hamidoubance53@gmail.com"><img src="https://img.shields.io/badge/Email-hamidoubance53@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://hub.docker.com/u/hamidoubance53"><img src="https://img.shields.io/badge/Docker_Hub-hamidoubance53-2496ED?style=flat&logo=docker&logoColor=white"/></a>
-</p>
+<h1 align="justifié">👋 Bonjour, moi c'est Hamidou BANCE</h1>
 
 ---
 
